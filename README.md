@@ -55,6 +55,7 @@ Community-driven translation. :family:
   - Spanish: [stsewd](https://github.com/stsewd)
   - German: [Acer54](https://github.com/Acer54)
   - Russian: [Anonym0uz](https://github.com/Anonym0uz)
+  - Portuguese (Brazilian): [jsolisu](https://github.com/jsolisu)
 
 
 ## Reference
